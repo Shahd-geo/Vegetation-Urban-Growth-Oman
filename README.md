@@ -37,7 +37,23 @@ This project analyzes the relationship between vegetation cover change and urban
 ---
 
 ## 🗺️ Maps & Outputs
-*(Add your maps here)*
+### Vegetation Classification Maps
+
+![Map 2002](map_2002.png)  
+![Map 2013](map_2013.png)  
+![Map 2023](map_2023.png)
+
+---
+
+### 📈 Change Analysis
+
+![Chart](chart_change.png)
+
+---
+
+### 📋 Data Table
+
+![Table](table_results.png)
 
 ---
 
