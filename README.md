@@ -1,4 +1,4 @@
-# 🌿 Vegetation Cover & Urban Growth Analysis – Al Batinah (2002–2023)
+# 🌿 Vegetation Cover & Urban Growth Analysis – Al Batinah , Oman (2002–2023)
 
 ## 📌 Overview
 This project analyzes the relationship between vegetation cover change and urban expansion in Al Batinah region, Oman, from 2002 to 2023 using GIS and remote sensing techniques.
@@ -42,7 +42,7 @@ This project analyzes the relationship between vegetation cover change and urban
 ![Map 2002](map_2002.png)  
 ![Map 2013](map_2013.png)  
 ![Map 2023](map_2023.png)
-
+Urban areas increased significantly between 2002 and 2023, while vegetation cover showed a continuous decline, indicating strong environmental impact due to urban expansion.
 ---
 
 ### 📈 Change Analysis
