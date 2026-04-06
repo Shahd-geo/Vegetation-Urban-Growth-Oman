@@ -42,6 +42,7 @@ This project analyzes the relationship between vegetation cover change and urban
 ![Map 2002](map_2002.png)  
 ![Map 2013](map_2013.png)  
 ![Map 2023](map_2023.png)
+
 Urban areas increased significantly between 2002 and 2023, while vegetation cover showed a continuous decline, indicating strong environmental impact due to urban expansion.
 ---
 
